@@ -16,6 +16,8 @@
                           c
                           b))))
 
+;;tests
+
 (sum-of-squares-of-largest-numbers 3 4 5)
 (sum-of-squares-of-largest-numbers 0 0 1)
 (sum-of-squares-of-largest-numbers 3 1 3)
