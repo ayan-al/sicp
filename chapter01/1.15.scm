@@ -7,4 +7,4 @@
       (p (sine (/ angle 3.0)))))
 
 ;; The procedure p is called 5 times.
-;; The order of growth in both space and time is log(x). 
+;; The order of growth in both space and time is log(x).
